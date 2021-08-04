@@ -22,7 +22,7 @@
 ###    Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![theakshayraj snake gif](https://github.com/theakshayraj/theakshayraj/blob/b21604aba904e2dea5d8e6f7de8d145f19e331b6/github-contribution-grid-snake.svg)      
+![manan3349 snake gif](https://github.com/manan3349/manan3349/blob/cbf599076c6695e84f671a702bc9fb8e60bce9d9/github-contribution-grid-snake.svg)
      
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manan3349&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
   
