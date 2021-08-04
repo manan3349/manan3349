@@ -16,9 +16,8 @@
 - 🌱 Currently training on Cloud & DevOps specialization.
 - 📫 Reach me :
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:manan3349@gmail.com)](mailto:manan3349@gmail.com) 
-- ⚡     Studying is my drug.
-     <br>But thank god I say no to drugs.<div align='center'>
-        ![](https://komarev.com/ghpvc/?username=theakshayraj&color=brightgreen)
+
+![](https://komarev.com/ghpvc/?username=manan3349&color=green)
 
 ###    Watch my contribution graph get eaten by the snake 🐍
 
