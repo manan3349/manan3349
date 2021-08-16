@@ -13,6 +13,7 @@
 ➙ **Orchestration tool:** Kubernetes <br>
 ➙ **Containerization Software:** Redhat OpenShift <br>
 
+
 - 🌱 Currently training on Cloud & DevOps specialization.
 - 📫 Reach me :
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:manan3349@gmail.com)](mailto:manan3349@gmail.com) 
@@ -25,6 +26,9 @@
 ![manan3349 snake gif](https://github.com/manan3349/manan3349/blob/cbf599076c6695e84f671a702bc9fb8e60bce9d9/github-contribution-grid-snake.svg)
      
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manan3349&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
+
+![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan3349&show_icons=true&theme=chartreuse-dark)
+
   
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
 
