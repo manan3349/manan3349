@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="300px" src='https://github.com/theakshayraj/Cool-Readme-ideas/blob/68f1ef2bf6a85ea818233d33b6a5085d15249940/data/octocat/daftpunktocat-guy.gif' />
 
-- 🔭 I'm a final year engineering student at DIT, Dehradun. 
+- 🔭 I'm a DevOps engineer at ACKO General Insurance. 
 - 💻 I believe in the power of Automation and the Integration of technologies to transform and ease the lives of people around the world, hence mastering DevOps which contains technologies like:<br>
 ➙ **Cloud:** AWS <br>
 ➙ **Multi-Cloud:** Terraform <br>
