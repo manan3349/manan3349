@@ -14,7 +14,6 @@
 ➙ **Containerization Software:** Redhat OpenShift <br>
 
 
-- 🌱 Currently training on Cloud & DevOps specialization.
 - 📫 Reach me :
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:manan3349@gmail.com)](mailto:manan3349@gmail.com) 
 
